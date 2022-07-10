@@ -1,4 +1,4 @@
-# Python-Pandas-for-Data-science
+# Python-Pandas-for-Data-analysis
 Using python Pandas to load, clean and wrangle data
 
 
