@@ -12,16 +12,7 @@ import datetime
 import os
 
 
-# In[2]:
 
-
-os.getcwd()
-
-
-# In[3]:
-
-
-os.chdir('/Users/Flacko/Documents/Python')
 
 
 # In[5]:
